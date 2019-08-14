@@ -3,7 +3,7 @@
 <div class="nav-wrapper blue accent-3">
 
        <!--<a href="#!" class="brand-logo"><img src="assets/img/Cover.png" class="Logo"></a>-->
-       <a href="#!" class="brand-logo"><img class="Logo" src="<?php echo SERVERURL;?>assets/img/Recursos/logonuevo1.png"/></a>
+       <a href="#!" class="brand-logo"><img class="Logo" src="<?php echo SERVERURL;?>assets/img/Recursos/menu.png"/></a>
       <ul class="right hide-on-med-and-down">
 
  <!--<a href="#!" class="text-logo"><b>OUTSOURCING<b></a><ul class="right hide-on-med-and-down">-->

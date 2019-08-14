@@ -45,6 +45,12 @@
             {
                   color: #76ff03  ;
             }
+            .Logo
+            {
+                  margin-top:10px;
+                  width:150px;
+                  height:40px;
+            }
 
       </style>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>

@@ -8,7 +8,7 @@
 	  <nav class="panel blue accent-3">
       <div class="nav-wrapper">
 
-      <a href="#!" class="brand-logo"><img class="Logo" src="<?php echo SERVERURL;?>assets/img/Recursos/logonuevo1.png"/></a>
+      <a href="#!" class="brand-logo"><img class="Logo" src="<?php echo SERVERURL;?>assets/img/Recursos/menu.png"/></a>
  <ul class="right hide-on-med-and-down">
 
  <!--<a href="#!" class="text-logo"><b>OUTSOURCING<b></a><ul class="right hide-on-med-and-down">-->

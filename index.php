@@ -10,7 +10,7 @@
     <div class="nav-wrapper">
 
       <!--<a href="#!" class="brand-logo"><img src="assets/img/Cover.png" class="Logo"></a>-->
-      <a href="#!" class="brand-logo"><img class="Logo" src="assets/img/Recursos/logonuevo1.png"/></a>
+      <a href="#!" class="brand-logo"><img class="Logo" src="assets/img/Recursos/menu.png"/></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="<?php echo SERVERURL;?>view/Usuario/Login.php"><i class="material-icons">lock_open</i></a></li>
         <li><a href="<?php echo SERVERURL;?>view/User/Registro.php"><i class="material-icons">business_center</i></a></li>
@@ -65,7 +65,7 @@
       </span>
       </div>
       <div class="grid-example col s12 m6">
-      <img class="materialboxed" width="650" src="assets/img/Recursos/logonuevo2.png">
+      <img class="materialboxed" width="650" src="assets/img/Recursos/Logonuevo1.png">
 
       </div>
 

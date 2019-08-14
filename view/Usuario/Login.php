@@ -9,7 +9,7 @@
     <div class="nav-wrapper">
 
        <!--<a href="#!" class="brand-logo"><img src="assets/img/Cover.png" class="Logo"></a>-->
-       <a href="<?php echo SERVERURL;?>index.php" class="brand-logo"><img class="Logo" src="<?php echo SERVERURL;?>assets/img/Recursos/logonuevo1.png"/></a>
+       <a href="<?php echo SERVERURL;?>index.php" class="brand-logo"><img class="Logo" src="<?php echo SERVERURL;?>assets/img/Recursos/menu.png"/></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="<?php echo SERVERURL;?>index.php"><i class="material-icons">keyboard_arrow_left</i></a></li>
         <li><a href="#"><i class="material-icons">lock_open</i></a></li>
